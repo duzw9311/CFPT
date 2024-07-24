@@ -1,1 +1,1 @@
-# Official code of Paper Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images
+# CFPT
