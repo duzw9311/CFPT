@@ -1,7 +1,7 @@
 # Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images
 This repository provides the official PyTorch implementation of **CFPT**.
 
-In this paper, we propose the cross-layer feature pyramid transformer designed for small object detection in aerial images.
+In this [paper](https://arxiv.org/abs/2407.19696), we propose the cross-layer feature pyramid transformer designed for small object detection in aerial images.
 
 Below is the performance comparison with other feature pyramid networks based on RetinaNet on the VisDrone-2019 DET dataset.
 <p align="center">
@@ -53,7 +53,7 @@ Please see [get_started.md](https://github.com/duzw9311/CFPT/blob/main/docs/en/g
 
 ## Usage
 ### Data Preparation
-Download the VisDrone2019-DET dataset converted to COCO annotation format. You can refer to this [link](https://pan.baidu.com/s/1H_MtU-eSGI5jUJE-EcLynQ?pwd=2e3t).
+Download the VisDrone2019-DET dataset converted to COCO annotation format. You can download it from this [link](https://pan.baidu.com/s/1H_MtU-eSGI5jUJE-EcLynQ?pwd=2e3t).
 
 ### Training
 ```bash
