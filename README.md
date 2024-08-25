@@ -16,7 +16,7 @@ class="center">
 </p>
 
 ## Weights
-Due to the accidental deletion of the model weights used in the original study, we retrained the network, resulting in slight differences in performance indicators.
+Due to the accidental deletion of the model weights prepared for this paper, we retrained the entire network, resulting in slight differences in performance metrics compared to the original study.
 Model | AP | Log | Link1 | Link2 |
 --- |:---:|:---:|:---:|:---:
 retinanet_r18_cfpt             | 20.0  | [Log](https://github.com/duzw9311/CFPT/blob/main/resources/retinanet_r18_cfpt.log) | [BaiduNetDisk](https://pan.baidu.com/s/1TkfGcwrp-27nMSXMFas27w?pwd=ael1) | [GoogleDrive](https://drive.google.com/file/d/1toxJzG18I4mCW_CwhG3NQ0uoquhJB6Pg/view?usp=drive_link)
