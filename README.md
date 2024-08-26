@@ -26,7 +26,7 @@ retinanet_r101_cfpt             | 22.6 | [Log](https://github.com/duzw9311/CFPT/
 ## Installation
 Our experiments are based on torch 1.10+cu113, mmdet 2.24.1 and mmcv-full 1.6.0.
 
-Please see [get_started.md](https://github.com/duzw9311/CFPT/blob/main/docs/en/get_started.log) for the basic usage of MMDetection.
+Please see [get_started.md](https://github.com/duzw9311/CFPT/blob/main/docs/en/get_started.md) for the basic usage of MMDetection.
 
 1. Install PyTorch.
 
